@@ -12,8 +12,8 @@ window.onload = function() {
   document.querySelector("#theexcuse").innerHTML = generateExcuse();
 };
 
-  //Excuse components//
-  let generateExcuse = () => {
+//Excuse components//
+let generateExcuse = () => {
   let who = [
     "The police",
     "My neighbor",
